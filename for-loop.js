@@ -1,6 +1,7 @@
 // FOR LOOPS
  for (let i=1; i<=5; i++) {
-    console.log("Mohammed Sharib")
+    console.log("main branch version");
+
  }
 
 
@@ -9,4 +10,5 @@ for (let i=1; i<=1; i++){
     sum = sum + i;
  }
 console.log("sum = ", sum);
-console.log("change from feature branch");
+console.log("change from main branch");
+
