@@ -3,10 +3,6 @@
 This repository contains JavaScript code written for learning and practice purposes.  
 The goal of this project is to understand core JavaScript concepts by building small features and examples.
 
-## About the Project
-
-This project focuses on using JavaScript to add logic and interactivity to web pages.  
-It includes basic scripts that help in understanding how JavaScript works with HTML and CSS.
 
 ## What I Learned
 
