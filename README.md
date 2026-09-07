@@ -21,18 +21,7 @@ The goal of this project is to understand core JavaScript concepts by building s
 3. Open it in any web browser  
 4. Check the browser console for output (if needed)
 
-## Purpose
 
-This project is made for:
-- Practicing JavaScript fundamentals  
-- Improving problem-solving skills  
-- Building a strong base for frontend development  
-
-## Future Improvements
-
-- Add more examples and features  
-- Improve code structure  
-- Practice advanced JavaScript concepts  
 
 ## Author
 
