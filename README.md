@@ -13,6 +13,13 @@ The goal of this project is to understand core JavaScript concepts by building s
 - Event handling  
 - Objects , Classes and Error handling
 
+## Purpose
+
+This project is made for:
+- Practicing JavaScript fundamentals  
+- Improving problem-solving skills  
+- Building a strong base for frontend development 
+
 ## How to Run
 
 1. Open the project folder  
