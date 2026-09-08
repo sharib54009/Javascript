@@ -33,7 +33,9 @@ This project is made for:
 
 - Add more examples and features  
 - Improve code structure  
-- Practice advanced JavaScript concepts 
+- Practice advanced JavaScript concepts
+
+###Going to Enhance my skills with react
 
 
 
